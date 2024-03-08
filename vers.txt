@@ -1,2 +1,10 @@
 elso sor
 masodik sor
+hamradik sor
+negyedik sor
+otodik sor 
+hatodik sor 
+hetedik sor 
+nyolcadik sor 
+kilencedik sor 
+tizedik sor
